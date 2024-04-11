@@ -1,0 +1,1 @@
+# yg-server-checker
